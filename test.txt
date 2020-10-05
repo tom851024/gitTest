@@ -1,8 +1,4 @@
 Test file
-<<<<<<< HEAD
-This is Test
-=======
 a Test
 yes, ok is Test file
->>>>>>> mertest
 Branch merge Test
